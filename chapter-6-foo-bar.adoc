@@ -1,3 +1,4 @@
-==== ACT I: Title
+[#chapter-6-foo-bar]
+= ACT I: Chapter 6 - Foo Bar
 
 Tell you story
