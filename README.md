@@ -5,7 +5,7 @@ medium-act-i-book
 This is an Asciidoc book of Creations's "ACT I". It simply takes all their [medium posts](https://medium.com/act-i) and joins them together for ease of reading.  The intention is to be entirely faithful to the original posts - I've not even fixed the few spelling mistakes - while allowing various output versions to be generated, e.g. HTML, and .mobi for Kindle e-readers.  It is made available under the same Creative Commons Attribution-ShareAlike-4.0-International licence as the original posts. 
 
 # Downloads
-If you want the PDF, or MOBI versions of this book, click on the "releases" tab above.
+If you want the PDF, or KPF versions of this book, click on the "releases" tab above.
 
 # Generating the book yourself
 All these generators require you to have installed [asciidoctor](https://asciidoctor.org/docs/user-manual/). Then select the command you require to generate the output you desire.
@@ -24,13 +24,7 @@ Then you can run the following command in the base directory of this repository:
 
     asciidoctor-pdf medium-act-i-book.adoc
 
-## .MOBI (Kindle)
-To generate the .mobi version of this book you additionally need to install [Asciidoctor-EPUB3](https://asciidoctor.org/docs/asciidoctor-epub3/) and [kindlegen](https://rubygems.org/gems/kindlegen/versions/3.0.3) both via  Ruby gems - the instructions are in the linked pages.  The pre-requisite to run both of these is Ruby. You can then run the following command in the base directory of this repository:
-
-    asciidoctor-epub3 -a ebook-format=kf8 medium-act-i-book.adoc
-
-**UPDATE**: KindleGen
-
+## .KPF (Kindle)
 KindleGen is no longer available for download. Please use Kindle Previewer to convert, preview, and validate your eBooks. Kindle Previewer provides the same functionality of KindleGen and, in addition, provides:
 
 - Latest Kindle Conversion software that provides up-to-date validation for Enhanced Typesetting books (currently available for books in all languages except Simplified Chinese, Japanese, and Russian).
