@@ -2,3 +2,7 @@
 = ACT I: Chapter 3 - Foo Bar
 
 Tell you story
+
+== First Section
+
+More
