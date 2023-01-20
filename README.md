@@ -35,7 +35,6 @@ We recommend using EPUB format for publishing new reflowable titles and updating
 
 [Click here to visit the Kindle Previewer product page](https://tinyurl.com/y84exbka?rw_useCurrentProtocol=1&ref_=amb_link_n94Zbz6DNuSumTne6o22Bg_1)
 
-
 # Contributing
 Contributions are cool, and also very welcome.  There is a [code of conduct](CODE_OF_CONDUCT.md), and a [contribution guide](CONTRIBUTING.md) which you can familiarise yourself with if you want to get involved (even if its just fixing a typo).  They should be _very_ unsurprising to anyone used to the OSS world.
 
